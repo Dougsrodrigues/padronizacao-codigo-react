@@ -5,6 +5,7 @@
 ### Extensões
 
 - Prettier - Code formatter
+- EditorConfig for VS Code
 
 ### Dependencias
 
