@@ -13,7 +13,7 @@
 
 ## Configuração de arquivos
 
-- Com a extensão Prettier instalada, com botão direito do mouse escolha a opção
+- Com a extensão Prettier e EditorConfig instalada, com botão direito do mouse escolha a opção
   Generate .editorconfig e substitua o conteúdo do arquivo por :
 
 ````
