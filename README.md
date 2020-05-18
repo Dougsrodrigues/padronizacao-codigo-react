@@ -16,7 +16,7 @@
 - Com a extensão Prettier e EditorConfig instalada, com botão direito do mouse, na raiz do projeto, escolha a opção
   Generate .editorconfig e substitua o conteúdo do arquivo por :
 
-````
+```
 root = true
 [*]
 end_of_line = lf
@@ -24,8 +24,8 @@ indent_style = space
 indent_size = 2
 charset = utf-8
 trim_trailing_whitespace = true
-insert_final_newline = true```
-````
+insert_final_newline = true
+```
 
 - Rode o comando `yarn eslint --init` e siga a ordem
 
