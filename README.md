@@ -8,7 +8,7 @@
 
 ### Dependencias
 
-- yarn add -D eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
+- `yarn add -D eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint`
 
 ## Configuração de arquivos
 
